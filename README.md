@@ -25,3 +25,5 @@ calculating exponents, calculating square roots, or performing trigonometric cal
 The project was written and tested with Visual Studio 2022 version.
 The project has been tested to carry out addition, subtraction, multiplication, division, exponents, square roots and trigonometric functions effectively.
 Note: Care was taken to convert user input to radian before applying trigonometric functions. This ensured that basic trigonometric functions of Sine, Cosine and Tangent were done accurately.
+
+ The instructor stated that the project should be written in Program.cs file. This is the reason all the methods and implementation was written in the Project.cs file.
